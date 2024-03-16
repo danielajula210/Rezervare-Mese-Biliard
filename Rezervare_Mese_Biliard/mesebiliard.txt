@@ -1,0 +1,12 @@
+1 Luni,Vineri,Sambata,Duminica
+2 Sambata
+3 Miercuri
+4 Luni,Marti
+5 Joi,Sambata
+6 Luni
+In ziua de Luni, masa de biliard cu nr 2 este disponibila pentru rezervare incepand cu ora 18:16, pentru o durata de 30 minute.
+In ziua de Luni, masa de biliard cu nr 1 este disponibila pentru rezervare incepand cu ora 19:14, pentru o durata de 18 minute.
+In ziua de Luni, masa de biliard cu nr 1 este disponibila pentru rezervare incepand cu ora 15:38, pentru o durata de 12 minute.
+In ziua de Luni, masa de biliard cu nr 5 este disponibila pentru rezervare incepand cu ora 16:19, pentru o durata de 40 minute.
+In ziua de luni, masa de biliard cu nr 1 este disponibila pentru rezervare incepand cu ora 16:18, pentru o durata de 39 minute.
+In ziua de Miercuri, masa de biliard cu nr 2 este disponibila pentru rezervare incepand cu ora 18:18, pentru o durata de 8 minute.
